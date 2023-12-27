@@ -24,29 +24,29 @@ ChatOn is a real-time chat application that allows users to engage in conversati
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/your-username/chaton.git
-    ```
+   ```bash
+   git clone https://github.com/shruthey/chaton.git
+   ```
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd chaton
-    ```
+   ```bash
+   cd chaton
+   ```
 
 3. Install dependencies:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 ### Usage
 
 1. Run the server:
 
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 
 2. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access ChatOn.
 
@@ -64,7 +64,7 @@ We welcome contributions! If you have ideas for new features or improvements, fe
 
 ## Feedback
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/your-username/chaton/issues).
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/shruthey/chaton/issues).
 
 ## License
 
